@@ -8,7 +8,6 @@ const StarIcon = ({ coinId }) => {
         setLike(true);
       } else {
         setLike(false);
-        // favList;
       }
     }
   }, [coinId]);

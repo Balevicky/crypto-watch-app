@@ -13,3 +13,6 @@ Coingecko : `https://www.coingecko.com/fr/pi%C3%A8ces/`
 pour tracer lers courbes graphique
 https://recharts.org/en-US/examples/CustomizedRectangleContent
 installer recharts: npm i recharts
+===========================================
+INSTALLATION REDUX
+npm i -s redux react-redux @reduxjs/toolkit @redux-devtools/extension
